@@ -39,3 +39,6 @@ This project aims to create a model and web app that classify disaster messages.
 ![2](https://github.com/AlThorman/Disaster-Response-Pipeline/assets/33887084/aa74063f-01a9-4d7e-9306-568709c8038a)
 
 ![3](https://github.com/AlThorman/Disaster-Response-Pipeline/assets/33887084/f392a76d-3777-4316-83b2-bee33851f994)
+
+## Licensing, Authors, Acknowledgements
+The data used for this project was originally sourced from Figure Eight and is publicly available for research and development.
