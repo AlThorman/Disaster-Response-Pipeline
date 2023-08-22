@@ -34,4 +34,8 @@ This project aims to create a model and web app that classify disaster messages.
 - README.md: The project's README file provides essential information about the project, its purpose, and how to run it.
 
 ## Results
+![1](https://github.com/AlThorman/Disaster-Response-Pipeline/assets/33887084/6d6a313a-5b3b-4743-9bf3-1e68874fc433)
 
+![2](https://github.com/AlThorman/Disaster-Response-Pipeline/assets/33887084/aa74063f-01a9-4d7e-9306-568709c8038a)
+
+![3](https://github.com/AlThorman/Disaster-Response-Pipeline/assets/33887084/f392a76d-3777-4316-83b2-bee33851f994)
